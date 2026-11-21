@@ -1,8 +1,7 @@
-# <img src="/dash-poster.png" alt="Dash Poster" align="right" width="50%"> Dash
 
-**Dash** is based on **[TurboWarp](https://turbowarp.org/)** and adds stuff like **JSON category**, **console mode**, **new blocks**, **extensions**, **editor customization**, and **other features**.
+**NumberMod** is based on **[TurboWarp](https://turbowarp.org/)** and changes the featured projects.
 
-**Don't wait, start creating right now! - [Go to Dash...](https://dashblocks.org/)**
+**Don't wait, start creating right now! - [Go to NM...](https://numbermod.org/)**
 
 ### ℹ Versions of Dash:
 
